@@ -8,7 +8,21 @@ Platform.CanCollide = true
 local Platform = Instance.new("Part")
 Platform.Parent = workspace
 Platform.Anchored = true
+Platform.CFrame = CFrame.new(-51.5656433, -2, 1369.09009, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Platform.Size = Vector3.new(47, 1, 11)
+Platform.CanCollide = true
+---
+local Platform = Instance.new("Part")
+Platform.Parent = workspace
+Platform.Anchored = true
 Platform.CFrame = CFrame.new(-51.5656433, 65.1004458, 2139.09009, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Platform.Size = Vector3.new(47, 1, 11)
+Platform.CanCollide = true
+---
+local Platform = Instance.new("Part")
+Platform.Parent = workspace
+Platform.Anchored = true
+Platform.CFrame = CFrame.new(-51.5656433, -2, 2139.09009, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 Platform.Size = Vector3.new(47, 1, 11)
 Platform.CanCollide = true
 ---
@@ -22,7 +36,21 @@ Platform.CanCollide = true
 local Platform = Instance.new("Part")
 Platform.Parent = workspace
 Platform.Anchored = true
+Platform.CFrame = CFrame.new(-51.5656433, -2, 2909.09009, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Platform.Size = Vector3.new(47, 1, 11)
+Platform.CanCollide = true
+---
+local Platform = Instance.new("Part")
+Platform.Parent = workspace
+Platform.Anchored = true
 Platform.CFrame = CFrame.new(-51.5656433, 65.1004458, 3679.09009, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Platform.Size = Vector3.new(47, 1, 11)
+Platform.CanCollide = true
+---
+local Platform = Instance.new("Part")
+Platform.Parent = workspace
+Platform.Anchored = true
+Platform.CFrame = CFrame.new(-51.5656433, -2, 3679.09009, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 Platform.Size = Vector3.new(47, 1, 11)
 Platform.CanCollide = true
 ---
@@ -36,7 +64,21 @@ Platform.CanCollide = true
 local Platform = Instance.new("Part")
 Platform.Parent = workspace
 Platform.Anchored = true
+Platform.CFrame = CFrame.new(-51.5656433, -2, 4449.08984, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Platform.Size = Vector3.new(47, 1, 11)
+Platform.CanCollide = true
+---
+local Platform = Instance.new("Part")
+Platform.Parent = workspace
+Platform.Anchored = true
 Platform.CFrame = CFrame.new(-51.5656433, 65.1004458, 5219.08984, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Platform.Size = Vector3.new(47, 1, 11)
+Platform.CanCollide = true
+---
+local Platform = Instance.new("Part")
+Platform.Parent = workspace
+Platform.Anchored = true
+Platform.CFrame = CFrame.new(-51.5656433, -2, 5219.08984, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 Platform.Size = Vector3.new(47, 1, 11)
 Platform.CanCollide = true
 ---
@@ -50,7 +92,21 @@ Platform.CanCollide = true
 local Platform = Instance.new("Part")
 Platform.Parent = workspace
 Platform.Anchored = true
+Platform.CFrame = CFrame.new(-51.5656433, -2, 5989.08984, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Platform.Size = Vector3.new(47, 1, 11)
+Platform.CanCollide = true
+---
+local Platform = Instance.new("Part")
+Platform.Parent = workspace
+Platform.Anchored = true
 Platform.CFrame = CFrame.new(-51.5656433, 65.1004458, 6759.08984, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Platform.Size = Vector3.new(47, 1, 11)
+Platform.CanCollide = true
+---
+local Platform = Instance.new("Part")
+Platform.Parent = workspace
+Platform.Anchored = true
+Platform.CFrame = CFrame.new(-51.5656433, -2, 6759.08984, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 Platform.Size = Vector3.new(47, 1, 11)
 Platform.CanCollide = true
 ---
@@ -64,7 +120,21 @@ Platform.CanCollide = true
 local Platform = Instance.new("Part")
 Platform.Parent = workspace
 Platform.Anchored = true
+Platform.CFrame = CFrame.new(-51.5656433, -2, 7529.08984, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Platform.Size = Vector3.new(47, 1, 11)
+Platform.CanCollide = true
+---
+local Platform = Instance.new("Part")
+Platform.Parent = workspace
+Platform.Anchored = true
 Platform.CFrame = CFrame.new(-51.5656433, 65.1004458, 8299.08984, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+Platform.Size = Vector3.new(47, 1, 11)
+Platform.CanCollide = true
+---
+local Platform = Instance.new("Part")
+Platform.Parent = workspace
+Platform.Anchored = true
+Platform.CFrame = CFrame.new(-51.5656433, -2, 8299.08984, 1, 0, 0, 0, 1, 0, 0, 0, 1)
 Platform.Size = Vector3.new(47, 1, 11)
 Platform.CanCollide = true
 ---
